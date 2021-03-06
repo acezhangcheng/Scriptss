@@ -1,5 +1,5 @@
 # File: .github/workflows/repo-sync.yml    建立一个分支，把此文件放进分支的AC里
-name: sync-6Svip120apk69-gitee_q8qsTAUA_cThxc1RBVUE
+name: sync_ziye
 on:
   schedule:
     - cron: '1 0 * * *'
